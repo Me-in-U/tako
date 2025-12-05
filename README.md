@@ -15,7 +15,7 @@
             <div align=center style="width: 300px">
               <div align=left>
                   <ul>
-                      <li><strong>개발 기간</strong> : 2025.08.07 ~ 2025.09.29 (<strong>7주</strong>)</li>
+                      <li><strong>개발 기간</strong> : 2025.08.25 ~ 2025.09.29 (<strong>7주</strong>)</li>
                       <li><strong>플랫폼</strong> : Web</li>
                       <li><strong>개발 인원</strong> : 5명</li>
                       <li><strong>기관</strong> : 삼성 청년 SW·AI 아카데미 13기</li>
